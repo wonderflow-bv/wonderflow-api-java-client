@@ -9,7 +9,7 @@ The example include just one request: `Http POST /token` to the Wonderflow API.
 <!-- END doctoc -->
 
 
-### Requirements
+## Requirements
 
 - maven
 - java 8
