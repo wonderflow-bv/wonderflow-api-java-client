@@ -35,6 +35,7 @@ public class HttpPostGetToken {
 		HttpResponse  response = httpClient.execute(post);
 
 		if (response != null) {
+			System.out.println("Status code: "+response.getStatusLine());
 			InputStream in = response.getEntity().getContent(); //Get the data in the entity
 			Scanner s = new Scanner(in).useDelimiter("\\A");
 			String result = s.hasNext() ? s.next() : "";
