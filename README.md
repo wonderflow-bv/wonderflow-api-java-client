@@ -3,7 +3,7 @@
 
 Here you find an example of a Java-based API client.
 
-The example include just one request: `Http POST /token` to the Wonderflow API.
+The example include one request: `Http POST /token`, for obtaining a token from the Wonderflow API.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
