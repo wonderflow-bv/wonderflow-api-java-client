@@ -1,7 +1,16 @@
 # wonderflow-api-client
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Usage](#usage)
+  - [Clone the repo](#clone-the-repo)
+  - [Requirements](#requirements)
+  - [Build jar](#build-jar)
+  - [Run it](#run-it)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 This is just an example of a Java-based API client for the Wonderflow API.
 
