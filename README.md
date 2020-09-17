@@ -1,11 +1,13 @@
 # wonderflow-api-client
 
+
+Here you find an example of a Java-based API client.
+
+The example include just one request: `Http POST /token` to the Wonderflow API.
+
 <!-- START doctoc -->
 <!-- END doctoc -->
 
-This is just an example of a Java-based API client for the Wonderflow API.
-
-The example include just one request: `Http POST /token`.
 
 ### Requirements
 
