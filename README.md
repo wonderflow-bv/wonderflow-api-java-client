@@ -11,7 +11,7 @@ There is just one example request: Http POST /token.
 ### Requirements
 
 - maven
-- java
+- java 8
 - Wonderflow api keys
 
 ### Build jar
