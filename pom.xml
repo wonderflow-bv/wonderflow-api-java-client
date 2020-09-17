@@ -2,10 +2,10 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>wonderflow-api-client</groupId>
-	<artifactId>wonderflow-api-client</artifactId>
+	<groupId>wonderflow-api-java-client</groupId>
+	<artifactId>wonderflow-api-java-client</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>WonderflowApiClient</name>
+	<name>WonderflowApiJavaClient</name>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
 		<maven.compiler.target>1.8</maven.compiler.target>
