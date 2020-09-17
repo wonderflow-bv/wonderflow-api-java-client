@@ -7,6 +7,12 @@ This is just an example of a Java-based API client for the Wonderflow API.
 
 The example include just one request: `Http POST /token`.
 
+### Requirements
+
+- maven
+- java 8
+- Wonderflow api keys
+
 ## Usage
 
 ### Clone the repo
@@ -16,13 +22,6 @@ git clone git@github.com:wonderflow-bv/wonderflow-api-java-client.git
 
 cd wonderlfow-api-java-client
 ```
-
-
-### Requirements
-
-- maven
-- java 8
-- Wonderflow api keys
 
 ### Build jar
 
