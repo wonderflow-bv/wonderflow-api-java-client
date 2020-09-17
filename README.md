@@ -1,10 +1,8 @@
 # wonderflow-api-client
 
-This is just an example.
+This is just an example of a Java-based API client for the Wonderflow API.
 
-It shows a way to send an Http POST request to the Wonderflow API, using Java.
-
-There is just one example request: Http POST /token.
+The example include just one request: `Http POST /token`.
 
 ## Usage
 
